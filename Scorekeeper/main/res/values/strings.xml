@@ -1,0 +1,40 @@
+<!--suppress CheckTagEmptyBody-->
+<resources>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="app_name">Scorekeeper</string>
+    <string name="run">Avvia</string>
+    <string name="settings">Impostazioni</string>
+    <string name="empty"></string>
+
+    <!-- SETTINGS ACTIVITY -->
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="background">Sfondo</string>
+    <string name="hg_div">Divisori</string>
+    <string name="hg_counter">Contatori</string>
+    <string name="hg_counter_text">Testo Contatori</string>
+    <string name="hg_buttons">Bottoni</string>
+    <string name="hg_buttons_text">Testo Bottoni</string>
+    <string name="hg_digit">Contorno Cifre</string>
+    <string name="change_color">Cambia</string>
+
+    <!-- COLOR DIALOG -->
+    <string name="pick_color">Scegli un colore</string>
+    <string name="alpha">A</string>
+    <string name="red">R</string>
+    <string name="green">G</string>
+    <string name="blue">B</string>
+    <string name="xx">0</string>
+    <string name="ff">255</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annulla</string>
+    <string name="hash">#</string>
+    <string name="pre_color">FF000000</string>
+
+    <!-- SCOREKEEPER ACTIVITY -->
+    <string name="mandatory_landscape">Dovresti mettere il telefono in orizzontale</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="reset">R</string>
+
+</resources>
