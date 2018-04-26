@@ -26,4 +26,5 @@ Android application that displays two Counters
 
 **1.1 (1) [111] {10/04/2018}
    - Added ScrollView in ColorDialog
-   - Added Spacer at the end of ScrollView in OptionsActivity
+   - Added Spacer to the end of ScrollView in OptionsActivity
+   - Added 95eb4e48
